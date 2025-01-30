@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ravikanth
+- 👋 Hi, I’m @Ravi
 - 👀 I’m interested in ... Building MicroServices, Spring boot Application && DevOps
 - 🌱 I’m currently learning ... Microsoft AZURE
 - 💞️ I’m looking to collaborate on ...
